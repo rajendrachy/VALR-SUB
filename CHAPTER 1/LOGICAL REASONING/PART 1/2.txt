@@ -1,0 +1,1 @@
+This is running type qn. In this type of qn start from Last i.e. start solving from last.
