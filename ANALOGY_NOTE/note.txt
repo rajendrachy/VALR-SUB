@@ -1,0 +1,52 @@
+qn4. "Spex" is just an informal spelling of "specs", which itself is a short form of spectacles (eyeglasses).
+
+qn9. Hatred means a very strong feeling of dislike or anger toward someone or something.
+
+qn12. Explanation: A necklace is a kind of jewellery, so we need the category for shirt. A shirt is a kind of apparel (clothing).
+
+qn27. Prisoner means a person who is kept in prison as a punishment for a crime or while waiting for trial.
+
+qn28. Boredom means a state of being tired, uninterested, or dissatisfied because nothing is engaging or exciting.
+Enlightenment means the state of gaining knowledge, understanding, or insight, especially about important or complex subjects.
+
+
+qn32. We have:
+210 → 380
+If we try multiply by 2: 210 × 2 = 420
+To get 380, we need to subtract 40 → 420 − 40 = 380 ✅
+Now for 182 → ?
+Multiply by 2: 182 × 2 = 364
+To get the answer 342, we need to subtract 22 → 364 − 22 = 342 ✅
+--> multiply then small no subtract
+
+
+
+
+qn33. Step 1: Look at the first pair
+
+5 → 100 → multiply 5 by 20 → 5 × 20 = 100
+
+4 → 64 → multiply 4 by 16 → 4 × 16 = 64
+
+Notice: 20 = 5 × 4, 16 = 4 × 4
+
+✅ Rule: second number = first number × (first number × 4)
+
+Step 2: Apply the same rule to the second pair
+
+4 → 80 → 4 × 20 = 80 ✅
+
+3 → ? → 3 × 16 = 48 ✅
+
+✅ Answer: 48
+
+
+
+
+
+
+
+
+
+
+ytchannel -> https://youtu.be/HM2eHniYQhU?si=mLl14yIup5SL0VXd
